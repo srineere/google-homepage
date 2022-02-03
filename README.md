@@ -1,3 +1,10 @@
+# Google Home Page Clone
+Check out the website <a href="https://google-clone-srineer.netlify.app/" target="_blank">here</a>.
+
+- Searching leads to google search
+- Dropdown for apps work
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
